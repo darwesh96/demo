@@ -1,4 +1,10 @@
 {
+  "todos": [
+    { "id": 1, "title": "todo 1", "compeleted: false" },
+    { "id": 2, "title": "todo 2" , "compeleted: false" },
+    { "id": 3, "title": "todo 3" , "compeleted: true" },
+    { "id": 4, "title": "todo 4" , "compeleted: false" }
+  ],
   "posts": [
     { "id": 1, "title": "Post 1" },
     { "id": 2, "title": "Post 2" },
